@@ -25,6 +25,12 @@
 
     li {
       margin-right: 15px;
+      a.active{
+        color: red;
+      }
+      a.this-active{
+        color: blue;
+      }
     }
   }
 }
